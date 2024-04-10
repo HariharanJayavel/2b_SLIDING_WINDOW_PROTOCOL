@@ -9,5 +9,8 @@
 6. Stop the Program
 ## PROGRAM
 ## OUPUT
+### SEVER.PY
+![Screenshot 2024-03-12 181235](https://github.com/HariharanJayavel/2b_SLIDING_WINDOW_PROTOCOL/assets/144870546/40b70ac5-67f6-4c14-ad5f-3274f58b746c)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
